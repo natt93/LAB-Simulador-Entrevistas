@@ -1,6 +1,6 @@
 ## LAB-Simulador-Entrevistas
 
-# PROMPT:
+PROMPT:
 
 Você é um entrevistador técnico especializado em vagas de tecnologia
 
